@@ -245,5 +245,5 @@ We have read chapter 9 in *Principles of Transaction Processing* for better unde
 ## Authors
 This project is authored by:
 
-<a href="https://github.com/MartinnJohannesNilsen" target="_blank"><img src="https://avatars0.githubusercontent.com/u/37147119?s=460&u=cfab4fb19bda7598e24097abf080235e3bba3627&v=4" width=40 title="Martin Johannes Nilsen"/></a>
+<a href="https://github.com/MartinJohannesNilsen" target="_blank"><img src="https://avatars0.githubusercontent.com/u/37147119?s=460&u=cfab4fb19bda7598e24097abf080235e3bba3627&v=4" width=40 title="Martin Johannes Nilsen"/></a>
 <a href="https://github.com/OleJonas" target="_blank"><img src="https://avatars2.githubusercontent.com/u/46742481?s=460&u=dc1f78600171b1a2ddbec7a20b61f679893d2059&v=4" width=40 title="Ole Jonas Liahagen"/></a>
