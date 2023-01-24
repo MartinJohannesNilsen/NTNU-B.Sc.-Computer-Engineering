@@ -17,6 +17,7 @@ The courses can further be sorted listed by year:
 * TDAT2003 - Software engineering 2 with web development, project throughout January in the 4th semester
 * TDAT2004 - Data communications and network programming 
 * TDAT2005 - Algorithms and data structures 
+
 Combined with a position as teaching assistant in Programming 2, 4th semester
 
 **3rd year subjects:**
@@ -26,4 +27,5 @@ Combined with a position as teaching assistant in Programming 2, 4th semester
 * IINI3012 - Big data (not represented, mainly theory and calculations by hand)
 * TDAT3002 - Systems engineering with economy (not represented)
 * TDAT3001 - Bachelor thesis in computer engineering
+
 Combined with a position as teaching assistant in Operating systems 5th semester and Full-stack application development 6th semester
