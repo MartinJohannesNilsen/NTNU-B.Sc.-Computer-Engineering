@@ -23,7 +23,7 @@ Combined with a position as teaching assistant in Programming 2, 4th semester
 * TDAT3024 - Mathematics and physics, optional course 
 * TDAT3025 - Applied machine learning with project 
 * IINI4014 - Python for programmers 
-* IINI3012 - Big data (not represented, mainly theory)
+* IINI3012 - Big data (not represented, mainly theory and calculations by hand)
 * TDAT3002 - Systems engineering with economy (not represented)
 * TDAT3001 - Bachelor thesis in computer engineering
 Combined with a position as teaching assistant in Operating systems 5th semester and Full-stack application development 6th semester
