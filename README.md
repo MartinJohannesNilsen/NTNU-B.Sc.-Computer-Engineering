@@ -1,4 +1,4 @@
-# NTNU - B.Sc in Computer Engineering
+# NTNU - B.Sc. in Computer Engineering
 
 This repository serves as a collection of my work in the (code-related) subjects within my bachelor's degree. For the subjects mainly focusing on theory or calculations done by hand, these have been left out.
 
